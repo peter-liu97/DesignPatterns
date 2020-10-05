@@ -11,6 +11,7 @@ public class Test {
         for (int i = 0; i < length; i++) {
             System.out.println(cats[i]);
         }
-
+        System.out.println("test");
+        System.out.println("test");
     }
 }
